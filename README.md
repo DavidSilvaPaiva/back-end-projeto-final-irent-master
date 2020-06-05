@@ -10,7 +10,7 @@ Implements Javascript best practices validated by eslint based on the Airbnb Jav
 ## Install
 
 ```sh
-$ git clone git@github.com:jesielviana/nodejs-project-template.git
+$ git clone https://github.com/DavidSilvaPaiva/back-end-projeto-final-irent-master.git
 $ npm install
 ```
 
